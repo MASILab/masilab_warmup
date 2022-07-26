@@ -12,7 +12,7 @@ Programming exercise for prospective and/or new MASI Lab members
 ## Exercise Instructions
 This exercise was designed to simulate a first-pass quality check of a new imaging dataset. This process generally includes 1) scanning image files to gather image meta data, 2) looking at the meta data to assess differences between images, and 3) looking at the image data itself to assess quality. 
 
-You will be running a quality check on a dataset of pet pictures from the MASI lab! The only input to your code should be a file path to the directory containing an arbitrary number of pet pictures. Each image file follows the format "Pet name_Owner Initials.jpg" (note: not all images are JPEGs); if a file includes more than one pet name (example: 'Morris and Jackson_YT.jpg'), treat the entire string prior to the '_' as just a single pet name. **Do not hardcode the file paths to the individual images.**
+You will be running a quality check on a dataset of pet pictures from the MASI lab! The only input to your code should be a file path to the directory containing an arbitrary number of pet pictures. Each image file follows the format `Pet name_Owner Initials.jpg` (note: not all images are JPEGs); if a file includes more than one pet name (example: `Morris and Jackson_YT.jpg`), treat the entire string prior to `_` as just a single pet name. **Do not hardcode the file paths to the individual images.**
 
 ### Task 1: Scan the image files to gather image meta data. 
 1. Make a table that includes the following meta data for each image:
