@@ -1,6 +1,15 @@
 # MASI Lab Programming Baseline
 Programming exercise for prospective and/or new MASI Lab members
 
+## Getting started
+To complete this exercise, you will need to make your own copy of this template repository. 
+1. From the repository page, select the green "Use this template" button. 
+2. On the following page: 
+	- **make the owner your GitHub account**
+	- name the repository `masilab_warmup_[your name here]` (example: `masilab_warmup_cailey`)
+	- make the visibility public (so that the MASI lab can view your repository later)
+	- create the repository
+
 ## Guidelines
 - Use either Matlab or Python 3 to complete the following tasks. A Matlab Live Editor, Jupyter Notebook, or normal script are all acceptable; a starter program of each type is provided for you. 
 - Remember to commit your code often (with descriptive commit messages) to keep a record of your problem solving process. Push your code to your repo fork and send us an email with a link to the forked repository when you're happy with your solution.
@@ -23,7 +32,7 @@ You will be running a quality check on a dataset of pet pictures from the MASI l
 	- pet name
 	- owner initials
 2. Sort the table largest to smallest by image size, breaking ties by alphabetical pet names (A - Z).
-	- if using a notebook: print this table
+	- if using a jupyter notebook / live editor: print this table
 	- if using a script: save this table to a file
 
 ### Task 2: Look at the meta data to assess differences in the dataset.
@@ -33,7 +42,7 @@ You will be running a quality check on a dataset of pet pictures from the MASI l
 2. Pick the image with the smallest size. Make histograms of the Red, Green, and Blue color band intensities for this image.
 
 ### Task 3: Look at the image data to check quality.
-*For the following: if using a notebook, display the figure; if using a script, save the figure to a file.*
+*For the following: if using a jupyter notebook / live editor, display the figure; if using a script, save the figure to a file.*
 
 1. Make a visualization of all images in the dataset.
 	- All images should be displayed in subplots within a single figure. The subplot grid should have 4 columns. 
