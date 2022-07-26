@@ -1,14 +1,17 @@
 # MASI Lab Programming Baseline
 Programming exercise for prospective and/or new MASI Lab members
 
+**NOTE:** This exercise assumes working knowledge of git version control and GitHub. If you are unfamiliar with either, work through this [git & GitHub tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) before moving on.
+
 ## Getting started
 To complete this exercise, you will need to make your own copy of this template repository. 
-1. From the repository page, select the green "Use this template" button. 
+1. From the main [repository page](https://github.com/MASILab/masilab_warmup), select the green "Use this template" button. 
 2. On the following page: 
 	- **make the owner your GitHub account**
 	- name the repository `masilab_warmup_[your name here]` (example: `masilab_warmup_cailey`)
 	- make the visibility public (so that the MASI lab can view your repository later)
 	- create the repository
+3. Clone your newly created repository to your computer and get coding! 
 
 ## Guidelines
 - Use either Matlab or Python 3 to complete the following tasks. A Matlab Live Editor, Jupyter Notebook, or normal script are all acceptable; a starter program of each type is provided for you. 
