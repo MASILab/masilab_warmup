@@ -48,7 +48,7 @@ You will be running a quality check on a dataset of pet pictures from the MASI l
 *For the following: if using a jupyter notebook / live editor, display the figure; if using a script, save the figure to a file.*
 
 1. Make a visualization of all images in the dataset.
-	- All images should be displayed in subplots within a single figure. The subplot grid should have 4 columns. 
+	- All images should be displayed in subplots within a single figure. The subplot grid should have 5 columns. 
 	- Images should be sorted alphabetically by the owner's initials (A - Z), starting in the top left corner of the grid.
 		- again, break ties by pet names, also sorted alphabetically (A - Z).
 	- Use the pet name as the title of each image in the grid.
