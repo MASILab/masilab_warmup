@@ -19,7 +19,7 @@ To complete this exercise, you will need to make your own copy of this template 
 - There is no time limit to this assessment, but you should be able to comfortably complete it in 2-3 hours; we will be looking at your commit history to gauge how long it took you to complete each task.
 - You may use the internet and/or reference books, but you may not ask for help from other people in creating your solution. 
 - The purpose of this  assessment is not to challenge your programming prowess or trick you; it is simply to assess whether you have the basic programming experience necessary to be a productive member of the MASI lab.
-- Good luck! :)
+- Have fun and good luck! :)
 
 ## Exercise Instructions
 This exercise was designed to simulate a first-pass quality check of a new imaging dataset. This process generally includes 1) scanning image files to gather image meta data, 2) looking at the meta data to assess differences between images, and 3) looking at the image data itself to assess quality. 
