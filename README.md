@@ -42,7 +42,6 @@ You will be running a quality check on a dataset of pet pictures from the MASI l
 *For the following, label all plot axes (including units) and give all plots a descriptive title. If using a notebook, display all plots; if using a script, save all plots to files.*
 
 1. Visualize the relationship between image size and aspect ratio by making a scatterplot of these two features across all images.
-2. **[Maybe take this one out?]** Pick the image with the smallest size. Make histograms of the Red, Green, and Blue color band intensities for this image.
 
 ### Task 3: Look at the image data to check quality.
 *For the following: if using a jupyter notebook / live editor, display the figure; if using a script, save the figure to a file.*
