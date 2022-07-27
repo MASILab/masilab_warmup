@@ -15,7 +15,7 @@ To complete this exercise, you will need to make your own copy of this template 
 
 ## Guidelines
 - Use either Matlab or Python 3 to complete the following tasks. A Matlab Live Editor, Jupyter Notebook, or normal script are all acceptable; a starter program of each type is provided for you. 
-- Remember to commit your code often (with descriptive commit messages) to keep a record of your problem solving process. Push your code to your repo fork and send us an email with a link to the forked repository when you're happy with your solution.
+- Remember to commit your code often (with descriptive commit messages) to keep a record of your problem solving process. Push your code and send Dr. Landman an email with the link to your GitHub repository when you're happy with your solution.
 - There is no time limit to this assessment, but you should be able to comfortably complete it in 2-3 hours; we will be looking at your commit history to gauge how long it took you to complete each task.
 - You may use the internet and/or reference books, but you may not ask for help from other people in creating your solution. 
 - The purpose of this  assessment is not to challenge your programming prowess or trick you; it is simply to assess whether you have the basic programming experience necessary to be a productive member of the MASI lab.
