@@ -1,7 +1,7 @@
 # MASI Lab Programming Baseline
 Programming exercise for prospective and/or new MASI Lab members
 
-**NOTE:** This exercise assumes working knowledge of git version control and GitHub. If you are unfamiliar with either, work through this [git & GitHub tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) before moving on.
+**NOTE:** This exercise assumes working knowledge of git version control and GitHub. If you are unfamiliar with either, work through this [git & GitHub tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) before moving on. (Additional Git resources: [YouTube](https://www.youtube.com/watch?v=wrb7Gge9yoE).)
 
 ## Getting started
 To complete this exercise, you will need to make your own copy of this template repository. 
